@@ -1,0 +1,8 @@
+.env
+.envrc
+.venv/
+mongo-data/
+sampledata/
+*.out
+__pycache__/
+*.pyc
