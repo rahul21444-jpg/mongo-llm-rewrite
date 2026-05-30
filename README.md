@@ -98,5 +98,18 @@ Released under the [MIT License](LICENSE).
 
 ## Citation
 
-If you use this work, please cite the accompanying paper, *"Performance-Gated, Cost-Amortized LLM
-Rewriting of MongoDB Aggregation Pipelines with Verified Equivalence"* (Rahul Sharma, 2026).
+If you use this work, please cite the accompanying paper:
+
+> Rahul Sharma. *[Performance-Gated, Cost-Amortized LLM Rewriting of MongoDB Aggregation Pipelines
+> with Verified Equivalence](https://doi.org/10.5281/zenodo.20456038)*. 2026.
+> DOI: [10.5281/zenodo.20456038](https://doi.org/10.5281/zenodo.20456038)
+
+```bibtex
+@misc{sharma2026mongollmrewrite,
+  title  = {Performance-Gated, Cost-Amortized LLM Rewriting of MongoDB Aggregation Pipelines with Verified Equivalence},
+  author = {Sharma, Rahul},
+  year   = {2026},
+  doi    = {10.5281/zenodo.20456038},
+  url    = {https://doi.org/10.5281/zenodo.20456038}
+}
+```
